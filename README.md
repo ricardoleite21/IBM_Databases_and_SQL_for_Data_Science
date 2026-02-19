@@ -111,14 +111,7 @@ In this module we learned:
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
 ## This course certificate:
-<img align="center" src="assests/certificate.png" alt="banner">
+<img align="center" src="assests/Certificate_IBM_Databases_and_SQL_for_Data_Science_with_Python.pdf" alt="banner">
 
 
-#### ***Acknowledgment!!!***
-
-Warm Regards, \
-Aya Nabil \
-Email: ayanabil3200@gmail.com 
-
-**The noteimages and note module summary is taken from **sambhipiyush** and this is his repo link: https://github.com/sambhipiyush/Databases-and-SQL-for-Data-Science-IBM/tree/master**
 
