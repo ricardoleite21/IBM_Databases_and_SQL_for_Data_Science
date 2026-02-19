@@ -111,7 +111,7 @@ In this module we learned:
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
 ## This course certificate:
-<img align="center" src="assests/Certificate_IBM_Databases_and_SQL_for_Data_Science_with_Python.pdf" alt="banner">
+<img align="center" src="assests/Certificate_IBM_Databases_and_SQL_for_Data_Science_with_Python.png" alt="banner">
 
 
 
